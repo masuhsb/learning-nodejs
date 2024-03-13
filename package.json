@@ -1,0 +1,19 @@
+{
+  "name": "@masuhsb/learning-nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs for tea testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masuhsb/learning-nodejs.git"
+  },
+  "author": "masuhsb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masuhsb/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/masuhsb/learning-nodejs#readme"
+}
