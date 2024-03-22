@@ -1,6 +1,6 @@
 {
   "name": "@masuhsb/learning-nodejs",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "learning nodejs for tea testnet",
   "main": "index.js",
   "scripts": {
